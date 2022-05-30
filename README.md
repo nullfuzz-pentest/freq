@@ -5,7 +5,7 @@ This is go CLI tool for send fast Multiple  get HTTP request.
 you can use this tool for findings xss and sql injection vulnerablity from multi URL.
 
 # How to Install?
- go get -u github.com/nullfuzz-pentest/freq
+ go install -v  github.com/nullfuzz-pentest/freq@latest
 
 
 # smart Use
